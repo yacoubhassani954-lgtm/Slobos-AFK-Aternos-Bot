@@ -8,7 +8,7 @@
   "server": {
     "ip": "brill.aternos.host",
     "port": 52218,
-    "version": 1.16.5,
+    "version": 1.16.5 ,
     "try-creative": false
   },
   "position": {
